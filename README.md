@@ -10,4 +10,4 @@ It's a to do list. You can:
 
 ### How to run
 
- > yan dev
+ > yarn dev
